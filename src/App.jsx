@@ -1,6 +1,6 @@
 import React from "react";
 import CountdownTimer from "./components/CountdownTimer";
-import "./App.css"; 
+import "./App.css";
 
 export default function App() {
   return (
